@@ -2,7 +2,7 @@
 #pip3 install ollama
 from langchain_community.llms import Ollama
 
-llm = Ollama(model="llama3")
+llm = Ollama(model="llama3.1:8b")
 
 response = llm.invoke("Explain black holes in simple terms")
 print(response)
