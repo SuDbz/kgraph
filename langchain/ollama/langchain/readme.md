@@ -1,3 +1,6 @@
 
 
-referece : https://github.com/krishnaik06/Langchain-V1-Crash-Course
+referece : 
+ 1. https://www.youtube.com/watch?v=vzJOAnwIokM
+ 2. https://github.com/krishnaik06/Langchain-V1-Crash-Course
+ 3. https://www.youtube.com/watch?v=vJOGC8QJZJQ
